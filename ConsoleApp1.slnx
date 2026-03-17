@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Aula 4/">
+    <Project Path="Aula 4/ConsoleApp1/ConsoleApp1.csproj" />
+    <Project Path="Aula 4/ConsoleApp2/ConsoleApp2.csproj" />
+  </Folder>
+</Solution>
