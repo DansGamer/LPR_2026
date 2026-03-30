@@ -3,4 +3,8 @@
     <Project Path="Aula 4/ConsoleApp1/ConsoleApp1.csproj" />
     <Project Path="Aula 4/ConsoleApp2/ConsoleApp2.csproj" />
   </Folder>
+  <Folder Name="/Aula5/">
+    <Project Path="Aula5/Exercicio4/Exercicio4.csproj" />
+    <Project Path="Aula5/Exercicio5/Exercicio5.csproj" />
+  </Folder>
 </Solution>
