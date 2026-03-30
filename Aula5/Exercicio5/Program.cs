@@ -22,9 +22,6 @@ namespace Daniel
                     Days = (float)1000/(float)perDay;
                     Weeks = (float)Days/(float)7;
                     Months = (float)Weeks/(float)4.5;
-                    Console.WriteLine($"Dias: {Days}");
-                    Console.WriteLine($"Semanas: {Weeks}");
-                    Console.WriteLine($"Meses: {Months}");
                 }
                 else
                 {
