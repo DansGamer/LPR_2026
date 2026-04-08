@@ -31,6 +31,6 @@ namespace Daniel
             }
 
             Console.WriteLine($"Você precisaria gastar {Days:F2} dias treinando para se tornar um Jedi, ou {Weeks:F2} semanas, ou {Months:F2} meses!");
-        }   
+        }
     }
 }
