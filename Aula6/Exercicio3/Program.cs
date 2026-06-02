@@ -4,6 +4,9 @@ using System.Diagnostics;
 using System.Globalization;
 using System.Runtime.InteropServices;
 
+#pragma warning disable CS8601
+#pragma warning disable CS8618
+#pragma warning disable CS8600
 namespace Daniel
 {
     class SelecaoHerois
