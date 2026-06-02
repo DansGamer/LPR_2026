@@ -63,7 +63,7 @@ namespace Daniel
             }
         }
     
-
+ 
         static void cadastrarHeroi()
         {
             Console.Clear();
