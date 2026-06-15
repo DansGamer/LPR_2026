@@ -13,4 +13,7 @@
   <Folder Name="/Aula6/">
     <Project Path="Aula6/Exercicio3/Exercicio3.csproj" />
   </Folder>
+  <Folder Name="/Aula7/">
+    <Project Path="Aula7/Exercicio7/Exercicio1.csproj" />
+  </Folder>
 </Solution>

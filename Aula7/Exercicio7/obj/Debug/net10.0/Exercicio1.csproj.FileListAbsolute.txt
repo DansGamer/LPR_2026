@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\bin\Debug\net10.0\Exercicio1.exe
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\bin\Debug\net10.0\Exercicio1.deps.json
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\bin\Debug\net10.0\Exercicio1.runtimeconfig.json
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\bin\Debug\net10.0\Exercicio1.dll
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\bin\Debug\net10.0\Exercicio1.pdb
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\obj\Debug\net10.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\obj\Debug\net10.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\obj\Debug\net10.0\Exercicio1.AssemblyInfo.cs
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\obj\Debug\net10.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\obj\Debug\net10.0\Exercicio1.sourcelink.json
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\obj\Debug\net10.0\Exercicio1.dll
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\obj\Debug\net10.0\refint\Exercicio1.dll
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\obj\Debug\net10.0\Exercicio1.pdb
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\obj\Debug\net10.0\Exercicio1.genruntimeconfig.cache
+C:\Users\Daniel\Documents\DS\LPR_2026\Aula7\Exercicio7\obj\Debug\net10.0\ref\Exercicio1.dll
