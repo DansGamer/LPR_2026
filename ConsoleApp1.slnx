@@ -1,6 +1,10 @@
 <Solution>
   <Folder Name="/Aula 10/">
+    <Project Path="Aula 10/exercicio1/exercicio1.csproj" />
     <Project Path="Aula 10/exercicio3/exercicio3.csproj" />
+    <Project Path="Aula 10/exercicio5/exercicio5.csproj" />
+    <Project Path="Aula 10/exercicio6/exercicio6.csproj" />
+    <Project Path="Aula 10/exercicio7/exercicio7.csproj" />
   </Folder>
   <Folder Name="/Aula 4/">
     <Project Path="Aula 4/ConsoleApp1/ConsoleApp1.csproj" />
