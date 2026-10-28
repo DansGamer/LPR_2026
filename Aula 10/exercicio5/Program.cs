@@ -55,7 +55,7 @@ namespace Daniel
                 Console.WriteLine(p.Nome());
                 total += p.Preco();
             }
-            Console.WriteLine($"O valor total é R${total:2f}");
+            Console.WriteLine($"O valor total é R${total}");
             Console.WriteLine($"Há {produtos.Count} produtos no carrinho");
         }
 
@@ -83,6 +83,8 @@ namespace Daniel
                 {
                     Console.WriteLine("Preço processado!");
                     Console.WriteLine("Deseja criar mais produtos?");
+                    Produto newProduct = new Produto(Nome, Preco);
+                    p.AddProduto(newProduct);
                     Console.WriteLine("Responda 'y' se sim, ou qualquer coisa para não.");
                     Resposta = Console.ReadLine();
                 }
